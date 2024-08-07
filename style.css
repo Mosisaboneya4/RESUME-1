@@ -1,0 +1,143 @@
+body{
+    margin:0%;
+    background-color: black;
+}
+
+.container{
+    background-color: orange;
+    margin: 0px;
+    height: 230px;
+}
+
+.name{
+    margin: 0px;
+    padding: 8px;
+    text-align: center;
+}
+
+.major{
+    margin: 0px;
+    padding: 8px;
+    text-align: center;
+}
+
+.left{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 10%;
+}
+.right{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 70%;
+    bottom: 219px;
+}
+
+hr{
+    border:none;
+    height: 1px;
+    background-color: black;
+    width: 100%;
+}
+
+.brief{
+    color: white;
+    margin: 0px 25px;
+}
+
+h3{
+    color: orange;
+    margin: 20px 25px;
+}
+
+.educ{
+    color: white;
+    height: 90px;
+}
+.start{
+    margin-left: 25px;
+    width: 100px;
+}
+
+.mid{
+    width: 435px;
+    position: relative;
+    left: 30%;
+    bottom: 50px;
+}
+
+.soft{
+    color: orange;
+    margin: 10px 0px 5px;
+}
+
+.bach{
+    margin: 0px 5px;
+}
+
+.end{
+    position: relative;
+    bottom: 85px;
+    left: 80%;
+}
+
+.orange{
+    background-color: orange;
+    width: 970px;
+    float: right;
+}
+
+.skill{
+    color: white;
+    height: 125px;
+}
+
+.lefty{
+    position: relative;
+    bottom: 20px;
+    left: 405px;
+}
+
+.righty{
+    position: relative;
+    bottom: 130px;
+    left: 760px;
+}
+
+.one{
+    background-color: orange;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+}
+.two{
+    background-color: orange;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.three{
+    background-color: orange;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.set{
+    position: relative;
+    bottom: 15px;
+    left: 30%;
+}
+
+.ref{
+    color: white;
+    height: 300px;
+}
+
+.req{
+    position: relative;
+    left: 30%;
+}
